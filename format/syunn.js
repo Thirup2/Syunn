@@ -37,13 +37,13 @@ document.addEventListener('DOMContentLoaded', function () {
         if (
             getComputedStyle(document.documentElement)
                 .getPropertyValue('--background')
-                .trim() == '#fff'
+                .trim() == '#111'
         ) {
-            document.documentElement.style.setProperty('--primary', '#f6f6f6');
-            document.documentElement.style.setProperty('--background', '#111');
-        } else {
             document.documentElement.style.setProperty('--primary', '#353535');
             document.documentElement.style.setProperty('--background', '#fff');
+        } else {
+            document.documentElement.style.setProperty('--primary', '#f6f6f6');
+            document.documentElement.style.setProperty('--background', '#111');
         }
     }
 
