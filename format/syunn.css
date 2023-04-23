@@ -7,6 +7,8 @@ body {
   color: var(--primary);
   background-color: var(--background);
   font-family: 'Open Sans', sans-serif;
+    background-image: url("../img/94219701_p0.png");
+    background-size: cover;
 }
 
 ::-moz-selection {
