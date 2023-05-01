@@ -10,9 +10,9 @@ document.addEventListener('DOMContentLoaded', function () {
         var now = new Date();
         document.getElementById('time').innerHTML = now
         .toLocaleTimeString('en-US', {
-            timeZone: 'Asia/Shanghai',
+            timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
             timeZoneName: 'short',
-            hour12: false,
+            hour12: true,
             hour: 'numeric',
             minute: 'numeric',
             second: "numeric"
