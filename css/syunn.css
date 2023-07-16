@@ -185,13 +185,13 @@ ul li {
 
 #postrock #name {
   /* OH 这该死的选择困难症 */
-  /* font-family: 'Saira Stencil One', sans-serif; */
-  /* font-family: 'Russo One', sans-serif; */
-  /* font-family: 'Monoton', sans-serif; */
+  /* font-family: 'Saira Stencil One', sans-serif;*/
+   /*font-family: 'Russo One', sans-serif;*/
+   /*font-family: 'Monoton', sans-serif;*/
   font-family: 'Black Ops One', sans-serif;
   font-size: 15vw;
-  /* font-weight: bold; */
-  /* margin-bottom: 4rem; */
+   /*font-weight: bold;*/
+   /*margin-bottom: 4rem;*/
 }
 
 #postrock #name a {
