@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://syunn.cn/</loc>
-  <lastmod>2023-07-25T10:05:48+00:00</lastmod>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url><loc>https://blog.syunn.cn/</loc><lastmod>2023-11-09</lastmod></url>
+<url><loc>https://note.syunn.cn/</loc><lastmod>2023-11-09</lastmod></url>
+<url><loc>https://github.com/Thirup2</loc><lastmod>2023-11-09</lastmod></url>
+<url><loc>mailto:admin@syunn.cn</loc><lastmod>2023-11-09</lastmod></url>
+<url><loc>https://t.me/SyunnT</loc><lastmod>2023-11-09</lastmod></url>
+<url><loc>https://blog.syunn.cn/</loc><lastmod>2023-11-09</lastmod></url>
+<url><loc>https://icp.gov.moe/?keyword=20233201</loc><lastmod>2023-11-09</lastmod></url>
 </urlset>
